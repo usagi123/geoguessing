@@ -1,0 +1,14 @@
+# Ignore a specific folder (like Unity's auto-generated folders)
+screenshots/
+
+# Ignore files by extension (like compiled C# or Python files)
+*.csproj.user
+*.pyc
+*.suo
+
+# Ignore a specific file (like local environment variables)
+APIs.py
+
+# Ignore a specific folder anywhere in the project (like Python environments)
+venv/
+__pycache__/
