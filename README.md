@@ -1,4 +1,4 @@
-1. Create a file named `APIs.py` with content `API_KEY = "YOUR_API_KEY_HERE"`
+1. Supply your api key in `APIs.py`
 3. `python -m venv .venv`
 4. `.\venv\Scripts\activate`
 5. `pip install -r requirements.txt`
